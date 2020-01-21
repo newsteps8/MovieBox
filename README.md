@@ -35,3 +35,5 @@ We used Flask to make the database interface.
 
 We will use IMDB Movie Dataset, IMDB TV Series Dataset and Netflix Movie and TV
 Series Dataset for this Project.
+
+https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
