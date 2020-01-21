@@ -1,6 +1,14 @@
 # MovieBox
 It is a SQL database  project that making access to movie datas easier. 
 
+# Prerequisites
+
+Install MSSQL Server to build and manipulate database.
+
+Install Flask and pyodbc to use and manage database by user.
+
+
+
 # Database System
 We design a movies and series database system for the people that loves watching. The
 purpose is categorized movies and series according to their topics thus , people reach the
@@ -21,4 +29,6 @@ database that can be used by movies, series, videos or blog sites. Users can onl
 movies. But those who have an account can view movies and series.
 
 We used Flask to make the database interface.
+
+
 
