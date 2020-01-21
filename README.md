@@ -30,5 +30,6 @@ movies. But those who have an account can view movies and series.
 
 We used Flask to make the database interface.
 
+![alt text](https://github.com/newsteps8/MovieBox/blob/master/Screenshot%20from%202020-01-21%2018-30-03.jpg)
 
 
