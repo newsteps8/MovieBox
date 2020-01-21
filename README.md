@@ -33,3 +33,5 @@ We used Flask to make the database interface.
 ![alt text](https://github.com/newsteps8/MovieBox/blob/master/Screenshot%20from%202020-01-21%2018-30-03.jpg)
 
 
+We will use IMDB Movie Dataset, IMDB TV Series Dataset and Netflix Movie and TV
+Series Dataset for this Project.
